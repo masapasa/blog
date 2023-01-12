@@ -32,7 +32,7 @@ const NowPlaying: NextPage = () => {
           href={
             data?.isPlaying
               ? data.songUrl
-              : "https://open.spotify.com/user/oid25p8bf0jm4zfezkf765o03"
+              : "https://open.spotify.com/user/0d567cff69e6484181acf21f6568f27b"
           }
           className="relative flex items-center"
         >

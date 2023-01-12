@@ -18,23 +18,21 @@ export default function About() {
             🤔 About me
           </h1>
           <p className="mt-4">
-            Hey there! {"I'm"} a <Age /> year old IT Administrator & Web
-            Developer based out of Brisbane, Australia. Currently, {"I'm"}{" "}
-            working for a VFX Studio called Rising Sun Pictures.
+            Hey there! {"We are"} a <Age /> year old IT Adminstration & Web
+            Development company based out of Berlin, Germany. Currently, {"We are"}{" "}
+            working on a biomedical project in managing wounds.
           </p>
           <div>
             <h5 className="text-2xl font-bold mt-4 mb-4">What do you do?</h5>
             <div>
               <p>
-                Currently, {"I'm"} building tools to automate various processes
-                at RSP as well as designing and deploying networking solutions.
+                Currently, {"We are"} building tools to automate various processes
+               for our project as well as designing and deploying networking solutions.
               </p>
               <p className="mt-4">
                 {" "}
-                When {"I'm"} not at work, or working on a personal project,{" "}
-                {"I'm"} hanging out with mates, riding motorcycles, playing
-                video games, nerding out over audio and teaching myself
-                animation.
+                When {"We are"} not communicating with our clients, or working on a personal project,{" "}
+                {"We are"} developing new tools to automate and simplify your IT projects.
               </p>
             </div>
             <h5 className="text-2xl font-bold mt-4 mb-4">
@@ -44,7 +42,7 @@ export default function About() {
               <div className="flex gap-4">
                 <Contact />
                 <div className="dark:bg-white/5 border border-zinc-800/50 w-1/3 rounded-lg p-4">
-                  <Link href="https://github.com/zpuckeridge">
+                  <Link href="https://github.com/masapasa">
                     <button className="p-2 mb-2 w-full bg-white dark:bg-white/5 border border-zinc-800/50 rounded-lg flex items-center justify-center hover:ring-2 ring-gray-300 transition-all">
                       <FaGithub className="w-6 h-6 mr-1" /> GitHub
                     </button>

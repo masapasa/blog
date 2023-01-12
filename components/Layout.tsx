@@ -145,7 +145,7 @@ export default function Layout({ children }: { children: any }) {
             >
               Tailwind CSS
             </a>{" "}
-            and <a href="https://github.com/zpuckeridge/blog">❤</a>
+            and <a href="https://github.com/masapasa/blog">❤</a>
           </div>
         </footer>
       </div>
